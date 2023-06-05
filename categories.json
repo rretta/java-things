@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Tecnología",
+    "description": "Preguntas relacionadas con tecnologia actual y su historia."
+  },
+  {
+    "category": "Tenis",
+    "description": "Preguntas relacionadas a tenis"
+  },
+  {
+    "category": "Series de TV",
+    "description": "Preguntas relacionadas a series de televisión."
+  },
+  {
+    "category": "E-Sports",
+    "description": "Preguntas relacionadas con los deportes digitales."
+  },
+  {
+    "category": "Geografía",
+    "description": "Preguntas relacionadas con geografía"
+  },
+  {
+    "category": "Matemáticas",
+    "description": "Preguntas relacionadas con la ciencia de los números."
+  }
+]
