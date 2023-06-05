@@ -5,7 +5,7 @@ public class Main {
 
         String MI_NOMBRE = "Ezequiel";
 
-        System.out.printf("Hola, soy " + MI_NOMBRE + " 🚀");
+        System.out.println("Hola, soy " + MI_NOMBRE + " 🚀");
     }
 }
 ```
