@@ -1,7 +1,7 @@
 {
   "category": "Tecnología",
   "question": "¿Junto con quien Bill Gates fundó Microsoft?",
-  "options": ["Linus Torvalds", "Paul Allen", "Steve Jobs", "Lucas Moi"],
+  "options": ["Linus Torvalds", "Paul Allen", "Lucas Moi"],
   "answer": 1,
   "explanation": "La historia de Microsoft comienza el 4 de abril de 1975, cuando fue fundada por Bill Gates y Paul Allen en Albuquerque. Sus mejores productos actuales en venta son el sistema operativo para computadoras Microsoft Windows y la suite Microsoft Office."
 }
