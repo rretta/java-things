@@ -9,3 +9,9 @@ public class Main {
     }
 }
 ```
+
+
+# CLASE 4
+ - ingresar a https://atl.academy/lab/trivia/index.html
+ - cambiar URL de pregunta por `https://raw.githubusercontent.com/rretta/java-things/main/question.json`
+ - cambiar URL de categorias por `https://raw.githubusercontent.com/rretta/java-things/main/categories.json`
