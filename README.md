@@ -15,3 +15,6 @@ public class Main {
  - ingresar a https://atl.academy/lab/trivia/index.html
  - cambiar URL de pregunta por `https://raw.githubusercontent.com/rretta/java-things/main/question.json`
  - cambiar URL de categorias por `https://raw.githubusercontent.com/rretta/java-things/main/categories.json`
+
+# CLASE 5 
+  Todos los ejercicios están dentro de la carpeta Clase_5 dentro de este repo.
