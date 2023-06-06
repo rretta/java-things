@@ -70,6 +70,8 @@ public class Main {
         5) Juego de adivinar el número:
         Genera un número aleatorio entre 1 y 100. Pídele al usuario que adivine el número.
          */
+
+        /*
         int numeroAleatorio = (int) (Math.random() * 100);
         System.out.println("Que número entre 1 y 100 piensa que va a salir? ");
         Scanner cargaNumero = new Scanner(System.in);
@@ -81,6 +83,6 @@ public class Main {
         }else{
             System.out.println("No, El numero random era " + numeroAleatorio);
         }
-
+       */
     }
 }
