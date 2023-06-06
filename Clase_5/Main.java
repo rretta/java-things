@@ -1,6 +1,7 @@
 package Clase_5;
 
 
+import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class Main {
@@ -54,7 +55,7 @@ public class Main {
         Calcula el monto de la propina utilizando la fórmula: propina = totalCuenta * (porcentajePropina / 100).
          */
 
-        /*
+  /*
         System.out.println("Ingrese el total de la cuenta: ");
         Scanner cargaCuenta = new Scanner(System.in);
         double totalCuenta = cargaCuenta.nextInt();
@@ -64,8 +65,8 @@ public class Main {
         double propina = totalCuenta * (porcentajePropina / 100);
         DecimalFormat df = new DecimalFormat("#.oo");
         System.out.println("La propina es de: " + df.format(propina));
-*/
 
+*/
         /*
         5) Juego de adivinar el número:
         Genera un número aleatorio entre 1 y 100. Pídele al usuario que adivine el número.
