@@ -1,10 +1,9 @@
 import java.util.Scanner;
 
 /*
-Arma un programa que permita llamar a una persona por Whatsapp. Es similar al anterior.
-Pídele al usuario que ingrese un número de telefono sin espacios, por ejemplo: 5493541539405
-Después muestra en consola la concatenación de:
-“https://api.whatsapp.com/send?phone=” + telefono
+Escribe un programa que permita al usuario jugar el juego clásico de "piedra, papel, tijeras" contra la computadora.
+El programa debe solicitar al usuario que ingrese su elección (piedra, papel o tijeras) y luego generar una elección aleatoria
+para la computadora. Después de eso, el programa debe determinar el ganador según las reglas del juego y mostrar el resultado.
 
       */
 public class Ejercicio8 {
