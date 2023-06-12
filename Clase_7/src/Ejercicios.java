@@ -39,5 +39,6 @@ public class Ejercicios {
         System.out.println("El número mayor es " + mayor + ", el número menor es " + menor +" y el promedio es " + promedio );
 
 
+
     }
 }
